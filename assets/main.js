@@ -964,7 +964,7 @@
                     singer_first: 'Prod. Duckie',   
                     singer_second: ' ',     
                     singer_third: '',
-                    path: './assets/music/song11.mp3', 
+                    path: './assets/music/song3.mp3', 
                     image: './assets/img/image3.jpg',
                     time: '03:59'
                 },
@@ -975,7 +975,7 @@
                     singer_third: '', 
                     path: './assets/music/song7.mp3',
                     image: './assets/img/image4.jpg',
-                    time: '04.48'
+                    time: '04.47'
                 },
                 {
                     name: 'What Are Words',
@@ -1041,15 +1041,6 @@
                     image: './assets/img/image11.jpg',
                     time: '03.36'
                 },
-                {
-                    name: 'Reality',
-                    singer_first: 'Janieck Devy',
-                    singer_second: '',  
-                    singer_third: '',
-                    path: './assets/music/song10.mp3',
-                    image: './assets/img/image12.jpg',
-                    time: '02.49'
-                }
             ],
 
 
