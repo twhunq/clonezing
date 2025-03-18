@@ -942,31 +942,31 @@
 
         songs: [
                 {
-                    name: 'Cưới Đi',
-                    singer_first: 'Masew',
+                    name: 'Cao ốc 20',
+                    singer_first: 'B RAY x DatG (ft MASEW x K-ICM)',
                     singer_second: '',  
                     singer_third: '', 
-                    path: './assets/music/song13.mp3',
+                    path: './assets/music/song1.mp3',
                     image: './assets/img/image1.jpg',
-                    time: '03.22'
+                    time: '4:14'
                 },
                 {
-                    name: 'Rời Tới Luôn',
-                    singer_first: 'Nal', 
+                    name: '3107 Full Album',
+                    singer_first: 'W/n x Duongg x Nâu x Titie', 
                     singer_second: '',    
                     singer_third: '', 
-                    path: './assets/music/song12.mp3', 
+                    path: './assets/music/song2.mp3', 
                     image: './assets/img/image2.jpg',
-                    time: '04.02'
+                    time: '12:17'
                 },
                 {
-                    name: 'Covid Nhanh Đi Đi',
-                    singer_first: 'K-ICM, ', //song1    
-                    singer_second: 'APJ, ', //song1    
-                    singer_third: 'Huyền Thanh Môn', //song1
+                    name: '10 ngàn năm',
+                    singer_first: 'Prod. Duckie',   
+                    singer_second: ' ',     
+                    singer_third: '',
                     path: './assets/music/song11.mp3', 
                     image: './assets/img/image3.jpg',
-                    time: '03.42'
+                    time: '03:59'
                 },
                 {
                     name: 'Muộn Rồi Mà Sao Còn',
